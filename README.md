@@ -84,10 +84,10 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 #### x.head()
 ![Screenshot 2024-04-29 142459](https://github.com/Aadithya2201/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145917810/6145dd94-434d-48c3-b57c-4c344ffdfe46)
 
-#### accuracy value
+#### Accuracy value
 ![Screenshot 2024-04-29 142507](https://github.com/Aadithya2201/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145917810/e799065a-0220-4665-b2e3-43cb945b7011)
 
-#### data prediction
+#### Data prediction
 ![Screenshot 2024-04-29 142519](https://github.com/Aadithya2201/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145917810/7af9bc3d-e2a9-4acc-96ad-0e7188c6db9e)
 
 ## Result:
